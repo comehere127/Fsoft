@@ -1,0 +1,5 @@
+D:\Study\Fsoft\FPT_Software_Student\Cnu\Student\Assignments\Assignment2_Opt1\C#.NET\Codes\ATM.Common\bin\Debug\ATM.Common.dll
+D:\Study\Fsoft\FPT_Software_Student\Cnu\Student\Assignments\Assignment2_Opt1\C#.NET\Codes\ATM.Common\bin\Debug\ATM.Common.pdb
+D:\Study\Fsoft\FPT_Software_Student\Cnu\Student\Assignments\Assignment2_Opt1\C#.NET\Codes\ATM.Common\obj\Debug\ATM.Common.csprojResolveAssemblyReference.cache
+D:\Study\Fsoft\FPT_Software_Student\Cnu\Student\Assignments\Assignment2_Opt1\C#.NET\Codes\ATM.Common\obj\Debug\ATM.Common.dll
+D:\Study\Fsoft\FPT_Software_Student\Cnu\Student\Assignments\Assignment2_Opt1\C#.NET\Codes\ATM.Common\obj\Debug\ATM.Common.pdb
